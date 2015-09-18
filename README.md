@@ -1,0 +1,1 @@
+Starts a simple HTTP service that would run on a port. The service provides utility methods that can be hooked in tests for various callbacks. See test examples.
